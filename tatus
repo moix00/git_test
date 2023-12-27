@@ -1,0 +1,23 @@
+[33mcommit bd4c891c560f02b651fc9057e3fb4e9f80f2364d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: moix00 <mmonllaup1@gmail.com>
+Date:   Wed Dec 27 07:57:52 2023 +0100
+
+    hola mundo
+
+[33mcommit d271efa313fd82b2ce70854d9cad16e84fddfa01[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: moix00 <mmonllaup1@gmail.com>
+Date:   Wed Dec 27 07:44:19 2023 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit a7e9c04a018fc48e33c296170f6f36b447fca328[m
+Author: moix00 <mmonllaup1@gmail.com>
+Date:   Wed Dec 27 07:37:24 2023 +0100
+
+    Add hello_world.txt
+
+[33mcommit fa3810a7bdd75426beaeb70f362b976b96ad5396[m
+Author: moix00 <154440222+moix00@users.noreply.github.com>
+Date:   Wed Dec 27 07:31:53 2023 +0100
+
+    Initial commit
